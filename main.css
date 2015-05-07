@@ -1,3 +1,41 @@
 
+.container {
+	width: 95%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
 
+
+header {
+	background-image: url('images/header.jpg');
+	height: 516px;
+	width: 100%;
+}
+
+.headerright {
+	float: right;
+	font-style: Oswald;
+
+}
+.logo {
+	float:left;
+
+
+
+}
+
+.main{
+	text-align: center;
+	color: white;
+	font-family; Oswald;
+	font-size:2em;
+}
+
+
+
+
+
+
+}
 
