@@ -59,12 +59,18 @@ header {
 
 
 .headline {
-	font-style: 'Oswald'
-
+	font-style: 'Oswald';
+	font-size: 2em;
+	color: #0A3451;
+	position: relative;
+	left: 10px;
 }
 
 
-
+.avatar {
+	position: absolute;
+	right: 278px;
+}
 
 
 
