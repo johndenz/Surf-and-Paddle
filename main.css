@@ -9,27 +9,58 @@
 
 header {
 	background-image: url('images/header.jpg');
-	height: 516px;
+	height: 522px;
 	width: 100%;
 }
 
 .headerright {
 	float: right;
-	font-style: Oswald;
-
+	font-style: 'Oswald';
+	font-size: 1.5em;
+	position: relative;
+	right: 125px;
+	top: 25px;
 }
+
 .logo {
 	float:left;
-
-
-
+	position: relative;
+	left: 135px;
+	top: 23px;
 }
+
+
+.blog {
+	position: relative;
+	top: 35px;
+	left: 150px;
+	font-family: 'Oswald';
+}
+
+
+
+
+
 
 .main{
 	text-align: center;
 	color: white;
-	font-family; Oswald;
-	font-size:2em;
+	font-family: 'Oswald';
+	font-size: 3em;
+	position: relative;
+	top: 100px;
+}
+
+.text {
+	text-align: center;
+	position: relative;
+	top: 25px;
+}
+
+
+.headline {
+	font-style: 'Oswald'
+
 }
 
 
@@ -37,5 +68,5 @@ header {
 
 
 
-}
+
 
