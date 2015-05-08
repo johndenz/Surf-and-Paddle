@@ -15,25 +15,25 @@ header {
 
 .headerright {
 	float: right;
-	font-style: 'Oswald';
-	font-size: 1.5em;
+	font-family: 'Oswald';
+	font-size: 1.25em;
 	position: relative;
-	right: 125px;
-	top: 25px;
+	right: 144px;
+	top: 22px;
 }
 
 .logo {
 	float:left;
 	position: relative;
-	left: 135px;
-	top: 23px;
+	left: 125px;
+	top: 11px;
 }
 
 
 .blog {
 	position: relative;
-	top: 35px;
-	left: 150px;
+	top: 22px;
+	left: 144px;
 	font-family: 'Oswald';
 }
 
@@ -70,6 +70,7 @@ header {
 .avatar {
 	position: absolute;
 	right: 278px;
+
 }
 
 
